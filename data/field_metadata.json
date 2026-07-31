@@ -1,0 +1,12 @@
+{
+    "fieldName": "North Field",
+    "crop": "Corn",
+    "captureDate": "2026-07-31",
+    "drone": "DJI Mavic 3 Enterprise",
+    "camera": "RGB",
+    "resolution": "5472x3648",
+    "flightAltitudeMeters": 65,
+    "coverageHectares": 12.8,
+    "weather": "Sunny",
+    "operator": "Demo Operator"
+}
