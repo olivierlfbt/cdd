@@ -1,0 +1,10 @@
+{
+    "processedImage": "sample_drone.jpg",
+    "healthyAreaPercent": 92.8,
+    "affectedAreaPercent": 7.2,
+    "regionsDetected": 11,
+    "highRisk": 2,
+    "mediumRisk": 4,
+    "lowRisk": 5,
+    "generatedAt": "2026-07-31T16:30:00"
+}
